@@ -1,3 +1,4 @@
+sources
 Domain;Feed;Title;Category;Status;Score;OG-Images;Content Type;Creative Instance ID;Destination Domains;
 autoblog.com;https://www.autoblog.com/rss.xml;Autoblog;Cars;Enabled;10.10;;article;;www.autoblog.com;
 jalopnik.com;https://jalopnik.com/rss;Jalopnik;Cars;Enabled;4.67;;article;;jalopnik.com;
@@ -152,9 +153,7 @@ visordown.com;https://www.visordown.com/articles/rss;Visor Down;Moto;Enabled;;;A
 mcnews.com.au;https://www.mcnews.com.au/feed/;MCNews;Moto;Enabled;;;Article;;https://www.mcnews.com.au/;
 rideapart.com;https://www.rideapart.com/rss/news/all/;Ride Apart News;Moto;Enabled;;;Article;;https://www.rideapart.com/;
 rideapart.com;https://www.rideapart.com/rss/articles/all/;Ride Apart Articles;Moto;Enabled;;;Article;;https://www.rideapart.com/;
-motorcyclenews.com;https://www.feedspot.com/infiniterss.php?_src=followbtn&followfeedid=5310698&q=site:;Motorcycle News;Moto;Enabled;;;Article;;https://www.motorcyclenews.com/;
 webbikeworld.com;https://www.webbikeworld.com/feed/;webBike World;Moto;Enabled;;;Article;;https://www.webbikeworld.com/;
-cardosystems.com;https://www.cardosystems.com/feed/;CardoSystems Motorcycle Blog;Moto;Enabled;;;Article;;https://www.cardosystems.com/blog/;
 totalmotorcycle.com;https://www.totalmotorcycle.com/feed;Total Motorcycle;Moto;Enabled;;;Article;;https://www.totalmotorcycle.com/;
 motorbikewriter.com;https://motorbikewriter.com/feed/;Motorbike Writer;Moto;Enabled;;;Article;;https://motorbikewriter.com/;
 thevtwinblog.com;https://www.thevtwinblog.com/feed;The V-Twin Blog;Moto;Enabled;;;Article;;https://www.thevtwinblog.com/;
