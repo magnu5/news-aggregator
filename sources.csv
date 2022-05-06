@@ -1,4 +1,3 @@
-sources
 Domain;Feed;Title;Category;Status;Score;OG-Images;Content Type;Creative Instance ID;Destination Domains;
 autoblog.com;https://www.autoblog.com/rss.xml;Autoblog;Cars;Enabled;10.10;;article;;www.autoblog.com;
 jalopnik.com;https://jalopnik.com/rss;Jalopnik;Cars;Enabled;4.67;;article;;jalopnik.com;
